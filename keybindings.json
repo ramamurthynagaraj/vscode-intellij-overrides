@@ -60,5 +60,18 @@
     {
         "key": "shift+cmd+]",
         "command": "workbench.action.nextEditor"
+    },
+    {
+        "key": "alt+cmd+left",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "alt+cmd+right",
+        "command": "workbench.action.navigateForward"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "editor.action.format",
+        "when": "editorTextFocus"
     }
 ]
