@@ -98,5 +98,17 @@
         "key": "cmd+y",
         "command": "editor.action.deleteLines",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "cmd+g",
+        "command": "workbench.action.gotoLine"
+    },
+    {
+        "key": "cmd+e",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "shift+cmd+a",
+        "command": "workbench.action.showCommands"
     }
 ]
