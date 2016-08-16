@@ -110,5 +110,9 @@
     {
         "key": "shift+cmd+a",
         "command": "workbench.action.showCommands"
+    },
+    {
+        "key": "cmd+r",
+        "command": "editor.action.startFindReplaceAction"
     }
 ]
