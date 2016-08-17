@@ -114,5 +114,9 @@
     {
         "key": "cmd+r",
         "command": "editor.action.startFindReplaceAction"
+    },
+    {
+        "key": "cmd+n",
+        "command": "workbench.action.quickOpen"
     }
 ]
