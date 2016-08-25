@@ -118,5 +118,9 @@
     {
         "key": "cmd+n",
         "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "shift+cmd+s",
+        "command": "workbench.action.files.saveAll"
     }
 ]
